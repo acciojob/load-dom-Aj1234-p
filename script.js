@@ -1,5 +1,5 @@
-//your JS code here. If required.
-let body = document.querySelector('body');
+//your JS code here. If require
+let body = document.querySelector('body'); 
 window.addEventListener('DOMContentLoaded',(e)=>{
-        console.log("DOM load success");	
+        body.textContent = "DOM load success";	
 })
