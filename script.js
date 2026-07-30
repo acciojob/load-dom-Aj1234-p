@@ -1,4 +1,4 @@
 //your JS code here. If requ
-window.addEventListener('load',(e)=>{
+window.addEventListener('DOMContentLoaded',(e)=>{
 	console.log("DOM load success");
 });
