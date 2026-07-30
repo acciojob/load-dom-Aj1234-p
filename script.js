@@ -1,7 +1,4 @@
-//your JS code here. If require
-let body = document.querySelector('body');
+//your JS code here. If requ
 window.addEventListener('load',(e)=>{
-	let p = document.createElement('p');
-	p.textContent = "DOM load success";
-	body.appendChild(p);
+	console.log("DOM load success");
 });
